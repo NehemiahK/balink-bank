@@ -1,7 +1,7 @@
 # balink-bank
 A simple form to collect bank details
 
-#setup details
+# setup details
 
 1) Clone the project
 2) cd into cloned project 
