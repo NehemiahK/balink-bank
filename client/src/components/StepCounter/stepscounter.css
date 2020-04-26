@@ -1,0 +1,28 @@
+.steps-counter{
+    height:120px;
+    width:45%;
+    display: flex;
+    margin: 10px auto 0px;; 
+    justify-content: space-evenly;
+    background:white;
+    align-items: center;
+}
+
+.steps-counter .step-index{
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px auto;
+    width: 20px;
+    background: grey;
+    color: white;
+}
+
+.steps-counter .step-index.current, .step-index.checked{
+    background: #3f51b5;
+    cursor: pointer;
+}
+
+.step-line{
+    margin-bottom: 6%;
+    color:grey;
+}

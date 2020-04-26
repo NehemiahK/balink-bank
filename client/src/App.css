@@ -1,0 +1,21 @@
+body{
+  background: #fafafa;
+}
+
+.spacer{
+  margin: 20px 0px;
+}
+.spacer10 {
+  margin: 10px 0px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.language-selecter{
+  text-align: right;
+  margin-right: 30%;
+  margin-top: 20px;
+}
+
